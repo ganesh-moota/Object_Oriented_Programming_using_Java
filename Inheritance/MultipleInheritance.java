@@ -2,10 +2,10 @@
 	MULTIPLE INHERITANCE
 	
 	Parent1		Parent2
-		|		|
-		---------
-			|
-		  Child
+	   |		  |
+	   ----------------
+		  |
+		Child
 */
 
 
